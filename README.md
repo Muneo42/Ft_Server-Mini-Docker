@@ -8,9 +8,9 @@
   
   - Build 
   
- ``` docker build -t test .  ```
+ ``` sudo docker build -t test .  ```
   
   - Run
   
-  ``` Docker run --rm -it -p 80:80 -p 443:443 test ```
+  ``` sudo docker run --rm -it -p 80:80 -p 443:443 test ```
   
