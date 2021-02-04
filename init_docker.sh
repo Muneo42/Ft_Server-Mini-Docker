@@ -14,7 +14,7 @@
 # https://github.com/alexandregv/42toolbox
 
 # Ensure USER variabe is set
-[ -z "${USER}" ] && export USER=`selgrabl`
+[ -z "${USER}" ] && export USER=`jopaning`
 
 ################################################################################
 
